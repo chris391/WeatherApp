@@ -6,7 +6,7 @@
 # dependencies
 /node_modules
 api/api.js
-.vscode
+.vscode/
 # misc
 .env.local
 .env.development.local
