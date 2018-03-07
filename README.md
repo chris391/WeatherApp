@@ -1,5 +1,5 @@
 Made with React Native
-![alt text](http://i0.kym-cdn.com/photos/images/original/000/102/404/my-god-2001-space-odyssey-kubrick-demotivational-poster-1277301590.jpg)
+![alt text](https://github.com/chris391/WeatherApp/blob/master/preview.PNG)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
