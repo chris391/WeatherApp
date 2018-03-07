@@ -1,6 +1,5 @@
 Made with React Native
-<img src="https://github.com/chris391/WeatherApp/blob/master/preview.PNG" alt="Drawing" style="width: 200px; height:200px"/>
-<img src="https://github.com/chris391/WeatherApp/blob/master/preview.PNG" alt="alt text" width="222px" height="222px">
+<img src="https://github.com/chris391/WeatherApp/blob/master/preview.PNG" alt="alt text" width="222px" height="666px">
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
