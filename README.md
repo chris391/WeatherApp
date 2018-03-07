@@ -1,5 +1,5 @@
 Made with React Native
-![drawing](https://github.com/chris391/WeatherApp/blob/master/preview.PNG =100x20)
+![alt text](https://github.com/chris391/WeatherApp/blob/master/preview.PNG =100x20)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
